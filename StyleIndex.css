@@ -6,3 +6,41 @@ h1 {
     color:rgb(47,120,187);
     font-size: 36;
 }
+
+
+#Eyes {
+    position: fixed;
+    top: 70%;
+    left: 33%;
+    text-align:center;
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5vh;
+    width: 10vh
+}
+
+#Nose {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    text-align:center;
+    background-color:black;
+    border-color: white;
+    border-radius: 5vh;
+    height: 50%;
+    width: 10vh
+}
+
+#Mouth {
+    position: fixed;
+    top: 90%;
+    left: 30%;
+    text-align:center;
+    background-color:red;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5vh;
+    width: 50%;
+    height: 5%;
+}
