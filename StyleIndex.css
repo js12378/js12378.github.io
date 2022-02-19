@@ -17,7 +17,7 @@ h1 {
     border-style: solid;
     border-color: black;
     border-radius: 5vh;
-    width: 10vh
+    width: 10vh;
 }
 
 #Nose {
@@ -29,7 +29,7 @@ h1 {
     border-color: white;
     border-radius: 5vh;
     height: 50%;
-    width: 10vh
+    width: 10vh;
 }
 
 #Mouth {
