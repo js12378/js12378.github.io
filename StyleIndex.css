@@ -111,3 +111,41 @@ animation: scroll-left 25s linear infinite;
     from  {transform: translateX(120%);}
     to {transform: translateX(-120%);}
 }
+
+/*Week 9*/
+
+#W9Div1 {
+    position:absolute;
+    top:37.5%;
+    left:10%;
+    width:25%;
+    height:25%;
+    background-color: black;
+    color:white;
+    font-size: 200%;
+    text-align: center;
+}
+
+#W9Div2 {
+    position:absolute;
+    top:37.5%;
+    left:37.5%;
+    width:25%;
+    height:25%;
+    background-color: black;
+    color:white;
+    font-size: 200%;
+    text-align: center;
+}
+
+#W9Div3 {
+    position:absolute;
+    top:37.5%;
+    left:65%;
+    width:25%;
+    height:25%;
+    background-color: black;
+    color:white;
+    font-size: 200%;
+    text-align: center;
+}
